@@ -30,8 +30,7 @@ export default {
 </timePicker>
 ```
 
-实际效果参考：[https://github.com/Rattenking/rui-uni-components](https://github.com/Rattenking/rui-uni-components)
-
+实际效果参考：[https://github.com/749402932/uni-app-compontents/tree/master/uni-wing-time-selector-demo](https://github.com/749402932/uni-app-compontents/tree/master/uni-wing-time-selector-demo)
 **TimePicker 属性说明：**
 
 |属性名		|类型	|默认值	                    |说明								|
@@ -70,6 +69,7 @@ export default {
 |btnConfirm	|时间选择器点击【确定】按钮时时触发的事件，参数为e|
 |btnCancel	|时间选择器点击【取消】按钮时时触发的事件|
 
+v_1.0.0
 **修复BUG说明：**
 暂无
 
